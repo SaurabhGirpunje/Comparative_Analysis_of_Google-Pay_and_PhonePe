@@ -8,8 +8,8 @@ This repository presents a comprehensive statistical analysis comparing **Google
 ## 📂 Repository Structure
 
 - [📄 Comparative_Analysis_of_Google-Pay_and_PhonePe-Report](https://github.com/SaurabhGirpunje/Comparative_Analysis_of_Google-Pay_and_PhonePe/blob/main/Comparative_Analysis_of_Google-Pay_and_PhonePe-Report.pdf)
-- [UPI_Monthly_Data_2021_2025-Dataset](https://github.com/SaurabhGirpunje/Comparative_Analysis_of_Google-Pay_and_PhonePe/blob/main/UPI_Monthly_Data_2021_2025-Dataset.xlsx)
-- [Comparative_Analysis_of_Google-Pay_and_PhonePe-PPT](https://github.com/SaurabhGirpunje/Comparative_Analysis_of_Google-Pay_and_PhonePe/blob/main/Comparative_Analysis_of_Google-Pay_and_PhonePe-PPT.pdf)
+- [📈 UPI_Monthly_Data_2021_2025-Dataset](https://github.com/SaurabhGirpunje/Comparative_Analysis_of_Google-Pay_and_PhonePe/blob/main/UPI_Monthly_Data_2021_2025-Dataset.xlsx)
+- [🧑‍🏫 Comparative_Analysis_of_Google-Pay_and_PhonePe-PPT](https://github.com/SaurabhGirpunje/Comparative_Analysis_of_Google-Pay_and_PhonePe/blob/main/Comparative_Analysis_of_Google-Pay_and_PhonePe-PPT.pdf)
 ---
 
 ## 📬 Contact
